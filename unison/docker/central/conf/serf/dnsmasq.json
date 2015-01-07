@@ -1,0 +1,8 @@
+{
+  "event_handlers": [
+    "member-join=/etc/serf/handlers/dnsmasq-member-join",
+    "member-failed=/etc/serf/handlers/dnsmasq-member-join",
+    "member-leave=/etc/serf/handlers/dnsmasq-member-join"
+  ]
+}
+
